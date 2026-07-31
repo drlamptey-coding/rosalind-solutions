@@ -9,20 +9,11 @@ Original file is located at
 
 dna=input('Enter your dna sequence:').upper()
 print(dna)
-for base in dna:
-  if base not in 'ACTG':
-    print('enter a valid DNA sequence')
-    break
-else:
-    print('valid DNA sequence')
-    t_dna=len(dna)
-    print('for dna sequence:', dna)
-    print(f'total dna length is {t_dna} nucleotides')
-    A=dna.count('A')
-    C=dna.count('C')
-    G=dna.count('G')
-    T=dna.count('T')
-    print('adenine is:', A)
-    print('cytosine is:', C)
-    print('guanine is:', G)
-    print('thymine is:', T)
+A=dna.count('A')
+C=dna.count('C')
+G=dna.count('G')
+T=dna.count('T')
+print('adenine is:', A)
+print('cytosine is:', C)
+print('guanine is:', G)
+print('thymine is:', T)
