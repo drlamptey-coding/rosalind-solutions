@@ -8,6 +8,7 @@ validate sequences
 learnt the .replace('x', 'y') function. ie. replace an iteration in a string ie. DNA sequence
 
 ##REVC
+08.02.2025
 initially tried using .replace('x', 'y') for complements in the DNA; didn't work - caused incorrect replacements
 learnt the difference between tuples D=(), lists D=[], dictionary D={}, and strings D=' ', and
 how to create a new empty sets and the different types 
