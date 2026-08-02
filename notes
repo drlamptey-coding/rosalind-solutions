@@ -3,4 +3,20 @@
 learnt how to use:
 .count() to count iterations/characters in a string ie. DNA sequence
 validate sequences
+
 ##RNA
+learnt the .replace('x', 'y') function. ie. replace an iteration in a string ie. DNA sequence
+
+##REVC
+initially tried using .replace('x', 'y') for complements in the DNA; didn't work - caused incorrect replacements
+learnt the difference between tuples D=(), lists D=[], dictionary D={}, and strings D=' ', and
+how to create a new empty sets and the different types 
+.append() to create a new string also didn't work with strings
+learnt th difference between when to replace and when to add using +=
+BOTTOM LINE:
+strings are immutable; build a new string instead of trying to change the original
+string concatenation
+text = "Hello"
+text += " World"  #Results in "Hello World"
+loops
+conditionals
