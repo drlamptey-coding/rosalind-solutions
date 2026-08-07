@@ -8,7 +8,7 @@ validate sequences
 learnt the .replace('x', 'y') function. ie. replace an iteration in a string ie. DNA sequence
 
 ##REVC
-08.02.2025
+08.02.2026
 initially tried using .replace('x', 'y') for complements in the DNA; didn't work - caused incorrect replacements
 learnt the difference between tuples D=(), lists D=[], dictionary D={}, and strings D=' ', and
 how to create a new empty sets and the different types 
@@ -21,3 +21,9 @@ text = "Hello"
 text += " World"  #Results in "Hello World"
 loops
 conditionals
+
+##HAMM
+08.07.2026
+LEARNT BETTER CONCISE CODING STM'TS:
+#simpler stm't: if any(character is not in 'SET' for character in stored variable) Example: if any(base not in 'ACGT' for base in x)
+#simpler stm't. counting mismatch: sum(1 for a,b in zip(x,y) if a!=b)
