@@ -9,14 +9,15 @@ I am using these problems to develop programming and computational biology skill
 5. GC - GC content [COMPLETED]
 6. SUBS - Finding a motif [COMPLETED]
 
-7. ##Current Skills: 
-8. -Python
-9. -DNA sequence manipulation
-10. -String processing
-11. -Loops and conditionals
-12. -Basic algorithm development
-13. -Debugging
-14. -Computational thinking
+
+8. ##Current Skills: 
+9. -Python
+10. -DNA sequence manipulation
+11. -String processing
+12. -Loops and conditionals
+13. -Basic algorithm development
+14. -Debugging
+15. -Computational thinking
 
 ##What I Am Learning:
 Through these problems I am learning how to translate biological questions into computational algorithms, test my solutions, identify errors, and debug my code.
