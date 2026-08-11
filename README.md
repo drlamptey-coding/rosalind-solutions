@@ -10,13 +10,13 @@ I am using these problems to develop programming and computational biology skill
 6. SUBS - Finding a motif [COMPLETED]
 
 ##Current Skills: 
--Python
--DNA sequence manipulation
--String processing
--Loops and conditionals
--Basic algorithm development
--Debugging
--Computational thinking
+- Python
+- DNA sequence manipulation
+- String processing
+- Loops and conditionals
+- Basic algorithm development
+- Debugging
+- Computational thinking
 
 ##What I Am Learning:
 Through these problems I am learning how to translate biological questions into computational algorithms, test my solutions, identify errors, and debug my code.
