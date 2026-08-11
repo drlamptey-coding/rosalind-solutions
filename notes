@@ -25,5 +25,5 @@ conditionals
 ##HAMM
 08.07.2026
 LEARNT BETTER CONCISE CODING STM'TS:
-#simpler stm't: if any(character is not in 'SET' for character in stored variable) Example: if any(base not in 'ACGT' for base in x)
+#simpler stm't: if any(character not in 'SET' for character in stored variable) Example: if any(base not in 'ACGT' for base in x) \n print('Enter a valid character')
 #simpler stm't. counting mismatch: sum(1 for a,b in zip(x,y) if a!=b)
